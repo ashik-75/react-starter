@@ -1,7 +1,7 @@
 function Homepage() {
   return (
     <div className="p-5">
-      <div className="max-w-7xl mx-auto">Homepage</div>
+      <div className="mx-auto max-w-7xl">homepage</div>
     </div>
   );
 }
